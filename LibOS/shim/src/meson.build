@@ -92,6 +92,7 @@ libos_sources = files(
     'sys/shim_socket.c',
     'sys/shim_stat.c',
     'sys/shim_time.c',
+    'sys/shim_timerfd.c',
     'sys/shim_uname.c',
     'sys/shim_wait.c',
     'sys/shim_wrappers.c',
